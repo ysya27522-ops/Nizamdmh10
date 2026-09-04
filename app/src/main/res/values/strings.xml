@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">النظام</string>
+    <string name="app_tagline">النظام الدستوري العربي الإسلامي وإدارة الملفات السحابية</string>
+    <string name="section_my_drive">ملفاتي</string>
+    <string name="section_shared">المشتركة معي</string>
+    <string name="section_starred">المميزة بنجمة</string>
+    <string name="section_trash">سلة المهملات</string>
+    <string name="section_nizam_report">وثيقة النظام الدستوري</string>
+    <string name="section_search">البحث المتقدم</string>
+    <string name="new_folder">مجلد جديد</string>
+    <string name="new_document">مستند جديد</string>
+    <string name="upload_file">رفع ملف</string>
+    <string name="empty_folder">هذا المجلد فارغ حالياً</string>
+    <string name="empty_trash">سلة المهملات فارغة</string>
+    <string name="empty_trash_action">تفريغ سلة المهملات</string>
+    <string name="rename">تعديل الاسم</string>
+    <string name="delete_permanently">حذف نهائياً</string>
+    <string name="restore">استعادة</string>
+    <string name="move_to_trash">نقل إلى المهملات</string>
+    <string name="star">إضافة للمميزة</string>
+    <string name="unstar">إزالة من المميزة</string>
+    <string name="search_hint">ابحث بالاسم أو المحتوى…</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_docs">مستندات</string>
+    <string name="filter_sheets">جداول</string>
+    <string name="filter_slides">عروض</string>
+    <string name="filter_pdf">PDF</string>
+    <string name="filter_images">صور</string>
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="close">إغلاق</string>
+    <string name="save">حفظ</string>
+    <string name="export_to_drive">حفظ في Drive</string>
+    <string name="copy_text">نسخ النص</string>
+    <string name="share">مشاركة</string>
+</resources>

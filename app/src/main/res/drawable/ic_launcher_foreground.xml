@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Scales of justice and constitutional book emblem for Nizam -->
+    <!-- Base stand -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M44,78h20v4h-20z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M52,38h4v40h-4z" />
+    <!-- Balance beam -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M28,42h52v4h-52z" />
+    <!-- Left pan & cords -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="1.5"
+        android:pathData="M32,44 L24,58 M32,44 L40,58" />
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M22,58 C22,64 42,64 42,58 Z" />
+    <!-- Right pan & cords -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="1.5"
+        android:pathData="M76,44 L68,58 M76,44 L84,58" />
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M66,58 C66,64 86,64 86,58 Z" />
+    <!-- Top crown / emblem star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,26 L56.5,33 L64,33 L58,37.5 L60.5,44.5 L54,40 L47.5,44.5 L50,37.5 L44,33 L51.5,33 Z" />
+</vector>
